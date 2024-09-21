@@ -1,0 +1,5 @@
+/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step5/lib/libMathFunctions.a
+/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step5/lib/libSqrtLibrary.a
+/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step5/include/MathFunctions.h
+/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step5/bin/Tutorial
+/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step5/include/TutorialConfig.h
