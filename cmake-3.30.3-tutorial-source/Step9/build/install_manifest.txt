@@ -1,0 +1,5 @@
+/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step9/build/_CPack_Packages/Linux/TGZ/Tutorial-1.0-Linux/lib/libMathFunctions.a
+/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step9/build/_CPack_Packages/Linux/TGZ/Tutorial-1.0-Linux/lib/libSqrtLibrary.a
+/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step9/build/_CPack_Packages/Linux/TGZ/Tutorial-1.0-Linux/include/MathFunctions.h
+/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step9/build/_CPack_Packages/Linux/TGZ/Tutorial-1.0-Linux/bin/Tutorial
+/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step9/build/_CPack_Packages/Linux/TGZ/Tutorial-1.0-Linux/include/TutorialConfig.h

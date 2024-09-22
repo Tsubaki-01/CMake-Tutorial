@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20240922-0450-Experimental"
+	Name="UTsubaki"
+	Generator="ctest-3.28.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="13.2.0"
+	OSName="Linux"
+	Hostname="UTsubaki"
+	OSRelease="6.8.0-45-generic"
+	OSVersion="#45-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug 30 12:02:04 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="183"
+	ProcessorCacheSize="24576"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="4095"
+	TotalPhysicalMemory="7894"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2803.2"
+	>
+	<Testing>
+		<StartDateTime>Sep 22 12:50 CST</StartDateTime>
+		<StartTestTime>1726980644</StartTestTime>
+		<TestList>
+			<Test>./Runs</Test>
+			<Test>./Usage</Test>
+			<Test>./Comp4</Test>
+			<Test>./Comp9</Test>
+			<Test>./Comp5</Test>
+			<Test>./Comp7</Test>
+			<Test>./Comp25</Test>
+			<Test>./Comp-25</Test>
+			<Test>./Comp0.0001</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>Runs</Name>
+			<Path>.</Path>
+			<FullName>./Runs</FullName>
+			<FullCommandLine>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "25"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00168606</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "25"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxzzs8tKC3JzEtXKC4sKlHIT1MwMlUoyVdISlUwNOZyxi1rrmdiZmhqgk+JqZ6JgZkBXlNM9QwMTY1MCSgBAiO8SgZEMiQjFShcmliUqlCUnw+TzSwGSgEABxhrWQ==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Usage</Name>
+			<Path>.</Path>
+			<FullName>./Usage</FullName>
+			<FullCommandLine>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00137287</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Usage:.*number]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJzTz8jPTdUvL9R3zk9J1Xf2TcxO1Q0pLckvykzM0U/OBXGN9YwN9Ix1S6CiusX5pUXJqfrBJakFZvpJpZk5KfowHQphqUXFmfl5CoZ6BlyhxYnpqVYK+tS1Ia80Nym1iAsABPRAHg==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Comp4</Name>
+			<Path>.</Path>
+			<FullName>./Comp4</FullName>
+			<FullCommandLine>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "4"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00136695</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[4 is 2]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "4"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxzzs8tKC3JzEtXKC4sKlHIT1MwUSjJV0hKVTDSM+VyxiNrQEDawMDMEJ+KISMXkpEKFC1NLEpVKMrPh0pmFgNlAM6KZkk=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Comp9</Name>
+			<Path>.</Path>
+			<FullName>./Comp9</FullName>
+			<FullCommandLine>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "9"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0010749</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[9 is 3]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "9"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxzzs8tKC3JzEtXKC4sKlHIT1OwVCjJV0hKVTDlcsYpZ6xnglfWwMjY1Bi/CiCwxKdiUMmFZKQCRUsTi1IVivLzoZKZxUAZAADwZyY=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Comp5</Name>
+			<Path>.</Path>
+			<FullName>./Comp5</FullName>
+			<FullCommandLine>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "5"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00119141</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[5 is 2.236]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "5"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxzzs8tKC3JzEtXKC4sKlHIT1MwVSjJV0hKVTDmcsYpZ6RnDAJ4VRgZWxgSUGBmYD6sVIRkpALlShOLUhWK8vOhSjKL4fIAuKZv4w==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Comp7</Name>
+			<Path>.</Path>
+			<FullName>./Comp7</FullName>
+			<FullCommandLine>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "7"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00110923</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[7 is 2.645]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "7"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxzzs8tKC3JzEtXKC4sKlHIT1MwVyjJV0hKVTDhcsYpZ6RnYW6KV97M1MTCEr8KE1Nzc4IqCNgyqFSEZKQC5UoTi1IVivLzoUoyi+HyAL6VcCs=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Comp25</Name>
+			<Path>.</Path>
+			<FullName>./Comp25</FullName>
+			<FullCommandLine>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "25"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00113365</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[25 is 5]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "25"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxzzs8tKC3JzEtXKC4sKlHIT1MwMlUoyVdISlUwNOZyxi1rrmdiZmhqgk+JqZ6JgZkBXlNM9QwMTY1MCSgBAiO8SgZEMiQjFShcmliUqlCUnw+TzSwGSgEABxhrWQ==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Comp-25</Name>
+			<Path>.</Path>
+			<FullName>./Comp-25</FullName>
+			<FullCommandLine>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "-25"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00111633</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[-25 is (-nan|nan|0)]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "-25"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>The square root of -25 is 0
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>Comp0.0001</Name>
+			<Path>.</Path>
+			<FullName>./Comp0.0001</FullName>
+			<FullCommandLine>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "0.0001"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00107792</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[0.0001 is 0.01]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build/Tutorial "0.0001"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNzzEOgzAMheGdU/gE1bNDEnau0AsUKS0M4DaE+9cSCxsef71veaOu36Mt24f2X22kb8IDAFNTmopFtIrdeMckgsXhDEmSe4cUENA7YJCAwQM5Z/DggZxydHwB22d4zrAlsgd2z7nYerxqoap6Rct+ij99LXyL====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Sep 22 12:50 CST</EndDateTime>
+		<EndTestTime>1726980644</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

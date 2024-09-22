@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20240922-0450-Experimental"
+	Name="UTsubaki"
+	Generator="ctest-3.28.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="13.2.0"
+	OSName="Linux"
+	Hostname="UTsubaki"
+	OSRelease="6.8.0-45-generic"
+	OSVersion="#45-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug 30 12:02:04 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="183"
+	ProcessorCacheSize="24576"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="4095"
+	TotalPhysicalMemory="7894"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2803.2"
+	>
+	<Build>
+		<StartDateTime>Sep 22 12:50 CST</StartDateTime>
+		<StartBuildTime>1726980644</StartBuildTime>
+		<BuildCommand>/usr/bin/cmake --build . --config "Release"</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Sep 22 12:50 CST</EndDateTime>
+		<EndBuildTime>1726980644</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>

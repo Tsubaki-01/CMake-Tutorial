@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20240922-0450-Experimental"
+	Name="UTsubaki"
+	Generator="ctest-3.28.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="13.2.0"
+	OSName="Linux"
+	Hostname="UTsubaki"
+	OSRelease="6.8.0-45-generic"
+	OSVersion="#45-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug 30 12:02:04 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="183"
+	ProcessorCacheSize="24576"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="4095"
+	TotalPhysicalMemory="7894"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2803.2"
+	>
+	<Configure>
+		<StartDateTime>Sep 22 12:50 CST</StartDateTime>
+		<StartConfigureTime>1726980644</StartConfigureTime>
+		<ConfigureCommand>"/usr/bin/cmake" "/home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6"</ConfigureCommand>
+		<Log>-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/wq/Code/CMake-Tutorial/cmake-3.30.3-tutorial-source/Step6/build
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>Sep 22 12:50 CST</EndDateTime>
+		<EndConfigureTime>1726980644</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>
